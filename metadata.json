@@ -1,0 +1,6 @@
+{
+  "name": "ICM — Impressão Compartilhada de Máquinas",
+  "description": "Marketplace B2B/B2C que conecta proprietários de impressoras 3D com horas produtivas ociosas a clientes que necessitam fabricar peças, protótipos e lotes sob demanda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
